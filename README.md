@@ -1,2 +1,2 @@
 # Mass-proyecto
-Proyecto Grupañ
+Proyecto Grupal
