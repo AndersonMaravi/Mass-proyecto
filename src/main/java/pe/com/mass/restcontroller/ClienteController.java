@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import pe.com.mass.entity.ClienteEntity;
-import pe.com.proyecto.service.ClienteService;
+import pe.com.mass.service.ClienteService;
 //Aparece apartir de la version 4 de Spring
 @RestController
 //@Controller  -- es un controllador de spring
