@@ -1,4 +1,4 @@
-package pe.com.proyecto.restcontroller;
+package pe.com.mass.restcontroller;
 
 import java.util.List;
 import java.util.Optional;
@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import pe.com.proyecto.entity.ClienteEntity;
+import pe.com.mass.entity.ClienteEntity;
 import pe.com.proyecto.service.ClienteService;
 //Aparece apartir de la version 4 de Spring
 @RestController
