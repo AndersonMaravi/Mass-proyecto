@@ -2,7 +2,7 @@ package pe.com.mass.service;
 
 import java.util.List;
 import java.util.Optional;
-import pe.com.proyecto.entity.CargoEntity;
+import pe.com.mass.entity.CargoEntity;
 
 public interface CargoService {
     //funcion para mostrar todos los distritos

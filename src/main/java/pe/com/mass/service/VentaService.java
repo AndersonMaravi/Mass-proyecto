@@ -2,7 +2,7 @@ package pe.com.mass.service;
 
 import java.util.List;
 import java.util.Optional;
-import pe.com.proyecto.entity.VentaEntity;
+import pe.com.mass.entity.VentaEntity;
 
 public interface VentaService {
     //funcion para mostrar todos los distritos
