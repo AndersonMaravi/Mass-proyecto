@@ -9,5 +9,5 @@ package pe.com.mass.restcontroller;
  * @author Anderson
  */
 public class prubacontroller {
-    
+    private String usuario;
 }
