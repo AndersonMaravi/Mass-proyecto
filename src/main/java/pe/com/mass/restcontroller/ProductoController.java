@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package pe.com.proyecto.restcontroller;
+package pe.com.mass.restcontroller;
 
 import java.util.List;
 import java.util.Optional;
@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import pe.com.proyecto.entity.ProductoEntity;
-import pe.com.proyecto.service.ProductoService;
+import pe.com.mass.entity.ProductoEntity;
+import pe.com.mass.service.ProductoService;
 
 
 //Aparece apartir de la version 4 de Spring
